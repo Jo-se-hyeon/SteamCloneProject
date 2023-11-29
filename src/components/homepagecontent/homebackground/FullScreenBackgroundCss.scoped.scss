@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.fullScreenBg {
+  position: absolute;
+  width: 100%;
+  overflow: hidden;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  .fullScreenVideo {
+    width: 1850px;
+  }
+}
+
+.test {
+  display: block;
+  width: 100%;
+  height: 1px;
+}
