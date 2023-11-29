@@ -11,7 +11,6 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/favorit" element={<Favorit />} />
-          {/* <Route path="/board" element={<Board />} /> */}
         </Routes>
       </div>
     </BrowserRouter>
