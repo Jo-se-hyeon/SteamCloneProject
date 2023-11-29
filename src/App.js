@@ -9,7 +9,7 @@ function App() {
       <Navbar />
       <div>
         <Routes>
-          <Route path="/" exact element={<Home />} />
+          <Route path="/main" exact element={<Home />} />
           <Route path="/favorit" element={<Favorit />} />
           {/* <Route path="/board" element={<Board />} /> */}
         </Routes>
