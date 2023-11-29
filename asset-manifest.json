@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/SteamColneProject/static/css/main.1b4a90c6.css",
-    "main.js": "/SteamColneProject/static/js/main.d268d76a.js",
+    "main.js": "/SteamColneProject/static/js/main.b5d47ba7.js",
     "static/js/787.944a4a52.chunk.js": "/SteamColneProject/static/js/787.944a4a52.chunk.js",
     "static/media/background_carousel_1.jpg": "/SteamColneProject/static/media/background_carousel_1.4496855cf1e8a6937e7c.jpg",
     "static/media/gameinfocard_background.jpg": "/SteamColneProject/static/media/gameinfocard_background.6952ade2b356ad68b8ec.jpg",
     "index.html": "/SteamColneProject/index.html",
     "main.1b4a90c6.css.map": "/SteamColneProject/static/css/main.1b4a90c6.css.map",
-    "main.d268d76a.js.map": "/SteamColneProject/static/js/main.d268d76a.js.map",
+    "main.b5d47ba7.js.map": "/SteamColneProject/static/js/main.b5d47ba7.js.map",
     "787.944a4a52.chunk.js.map": "/SteamColneProject/static/js/787.944a4a52.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b4a90c6.css",
-    "static/js/main.d268d76a.js"
+    "static/js/main.b5d47ba7.js"
   ]
 }
