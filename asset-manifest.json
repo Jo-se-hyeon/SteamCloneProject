@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d86d6aa.css",
+    "main.js": "/static/js/main.91050dad.js",
+    "static/js/787.944a4a52.chunk.js": "/static/js/787.944a4a52.chunk.js",
+    "static/media/background_carousel_1.jpg": "/static/media/background_carousel_1.4496855cf1e8a6937e7c.jpg",
+    "static/media/gameinfocard_background.jpg": "/static/media/gameinfocard_background.6952ade2b356ad68b8ec.jpg",
+    "index.html": "/index.html",
+    "main.4d86d6aa.css.map": "/static/css/main.4d86d6aa.css.map",
+    "main.91050dad.js.map": "/static/js/main.91050dad.js.map",
+    "787.944a4a52.chunk.js.map": "/static/js/787.944a4a52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d86d6aa.css",
+    "static/js/main.91050dad.js"
+  ]
+}
