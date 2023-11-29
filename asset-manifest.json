@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/SteamCloneProject/static/css/main.1611a5bd.css",
-    "main.js": "/SteamCloneProject/static/js/main.52c57ea5.js",
+    "main.js": "/SteamCloneProject/static/js/main.7bf1e69f.js",
     "static/js/787.944a4a52.chunk.js": "/SteamCloneProject/static/js/787.944a4a52.chunk.js",
     "static/media/background_carousel_1.jpg": "/SteamCloneProject/static/media/background_carousel_1.4496855cf1e8a6937e7c.jpg",
     "static/media/gameinfocard_background.jpg": "/SteamCloneProject/static/media/gameinfocard_background.6952ade2b356ad68b8ec.jpg",
     "index.html": "/SteamCloneProject/index.html",
     "main.1611a5bd.css.map": "/SteamCloneProject/static/css/main.1611a5bd.css.map",
-    "main.52c57ea5.js.map": "/SteamCloneProject/static/js/main.52c57ea5.js.map",
+    "main.7bf1e69f.js.map": "/SteamCloneProject/static/js/main.7bf1e69f.js.map",
     "787.944a4a52.chunk.js.map": "/SteamCloneProject/static/js/787.944a4a52.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1611a5bd.css",
-    "static/js/main.52c57ea5.js"
+    "static/js/main.7bf1e69f.js"
   ]
 }
