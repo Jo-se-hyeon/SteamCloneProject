@@ -60,5 +60,6 @@
     "babel-plugin-react-scoped-css": "^1.1.1",
     "scoped-css-loader": "^1.0.0",
     "tsconfig-paths-webpack-plugin": "^4.1.0"
-  }
+  },
+  "homepage": "https://jo-se-hyeon.github.io/SteamColneProject/"
 }
